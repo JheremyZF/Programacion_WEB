@@ -133,6 +133,12 @@ nav img {
   padding-right: 21px;
 }
 #web {
+  background-image: url("../img/01.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   display: flex;
   align-items: center;
 }
